@@ -19,9 +19,9 @@
   "author": "XeniaSv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/XeniaSv/Web-Second-Semestr-Server/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/XeniaSv/Web-Second-Semestr-Server#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
