@@ -1,0 +1,33 @@
+{
+  "name": "web-second-semestr-server",
+  "version": "1.0.0",
+  "description": "Server forecast weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeniaSv/Web-Second-Semestr-Server.git"
+  },
+  "keywords": [
+    "Server",
+    "weather",
+    "forecast"
+  ],
+  "author": "XeniaSv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XeniaSv/Web-Second-Semestr-Server/issues"
+  },
+  "homepage": "https://github.com/XeniaSv/Web-Second-Semestr-Server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^5.12.3",
+    "node-fetch": "^2.6.1"
+  }
+}
